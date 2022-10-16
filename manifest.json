@@ -1,10 +1,10 @@
 {
-  "id": "txt-as-md-obsidian",
+  "id": "qmd-as-md-obsidian",
   "version": "0.0.1",
-  "description": "Edit txt files as if they were markdown",
-  "name": "txt as md",
-  "author": "death_au",
-  "authorUrl": "https://github.com/deathau",
+  "description": "Edit qmd files as if they were markdown, plugin based on txt as md plugin by death_md",
+  "name": "qmd as md",
+  "author": "Daniel Borek",
+  "authorUrl": "https://github.com/danieltomasz",
   "isDesktopOnly": false,
   "minAppVersion": "0.10.12"
 }
