@@ -52,7 +52,7 @@ You may have to reload obsidian (`ctrl+R`) to see changes.
 
 ## Pricing
 
-Plugin is completely free, but you might contribute to the author of the orginal plugin via the following:
+Plugin is completely free, but you might contribute to the author of the orginal plugin (deathau) via the following:
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/deathau?style=social)](https://github.com/sponsors/deathau)
 [![Paypal](https://img.shields.io/badge/paypal-deathau-yellow?style=social&logo=paypal)](https://paypal.me/deathau)
