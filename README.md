@@ -10,15 +10,7 @@ The required APIs were only added in Obsidian **0.10.12**, and as such, that is 
 ## Installation
 
 ### From within Obsidian
-From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
-- Open Settings > Third-party plugin
-- Make sure Safe mode is **off**
-- Click Browse community plugins
-- Search for this plugin
-- Click Install
-- Once installed, close the community plugins window and activate the newly installed plugin
-#### Updates
-You can follow the same procedure to update the plugin
+Currently the plugin is not accesible in the Obsidian n the community list. Tho access and beta test it, you can use [the BRAT plugin](https://github.com/TfTHacker/obsidian42-brat).
 
 ### From GitHub
 - Download the Latest Release from the Releases section of the GitHub Repository
