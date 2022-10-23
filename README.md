@@ -9,6 +9,7 @@ Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian
 
 - [ ] Creation of new qmd files
 - [ ] Currly braces `{language}` treated as language for codeblock
+- [ ] CSS for callout blocks
 
 ### Compatibility
 
