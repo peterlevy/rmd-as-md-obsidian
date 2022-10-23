@@ -5,6 +5,12 @@ QMD files contain a combination of markdown and executable code cell, and are fo
 
 Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian: Edit txt files in Obsidian.md as if they were markdown](https://github.com/deathau/txt-as-md-obsidian).
 
+### Plugins for better editing experience
+
+- Use  [obsidian-shellcomands](obsidian://show-plugin?id=obsidian-shellcommands) with `quarto render {{file_path:absolute}} --to pdf` to render the file inside obsidian
+-  Use [HTML Reader](obsidian://show-plugin?id=obsidian-html-plugin) to render HTML output inside Obsidian, Obsidian natively supports pdfs
+-  Currently the `[[wikistyle linking]]` doesn't work with non-md files, but you could use [Advanced URI](obsidian://show-plugin?id=obsidian-advanced-uri) plugin and `Advanced URI: copy URI for current nore` to get link which you can paste to other note and get the linked mentions of qmd files, on MacOS you could use also external [Hook App](https://hookproductivity.com/) to create links within Obsidianm
+
 ### To-do
 
 - [ ] Creation of new qmd files
