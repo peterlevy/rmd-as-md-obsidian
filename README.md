@@ -5,6 +5,11 @@ QMD files contain a combination of markdown and executable code cell, and are fo
 
 Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian: Edit txt files in Obsidian.md as if they were markdown](https://github.com/deathau/txt-as-md-obsidian).
 
+### To-do
+
+- [ ] Creation of new qmd files
+- [ ] Currly braces `{language}` treated as language for codeblock
+
 ### Compatibility
 
 The required APIs were only added in Obsidian **0.10.12**, and as such, that is the minimum version of Obsidian required to use this plugin. 
