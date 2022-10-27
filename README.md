@@ -11,7 +11,7 @@ Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian
 
 - Use  [obsidian-shellcomands](obsidian://show-plugin?id=obsidian-shellcommands) with `quarto render {{file_path:absolute}} --to pdf` to render the file inside obsidian
 -  Use [HTML Reader](obsidian://show-plugin?id=obsidian-html-plugin) to render HTML output inside Obsidian, Obsidian natively supports pdfs
--  Currently the `[[wikistyle linking]]` doesn't work with non-md files, but you could right click on file and `Copy Obsidian URL` or use [Advanced URI](obsidian://show-plugin?id=obsidian-advanced-uri) plugin and `Advanced URI: copy URI for current note` to get link which you can paste to other note (although you need to put manually markdown link syntax around it), on MacOS you could use also external [Hook App](https://hookproductivity.com/) to create links within Obsidian
+-  To be able to link the quatro files you need to check the toggle "detect all files extension" in Files & lInks section in Obsidian
 
 ### To-do
 
