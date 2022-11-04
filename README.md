@@ -1,17 +1,18 @@
 # qmd as md Obsidian plugin
 
 A plugin for [Obsidian](https://obsidian.md) which allows editing of qmd files as if they were markdown.
+
 QMD files contain a combination of markdown and executable code cell, and are format supported by [Quarto](https://quarto.org/) open source publishing systems, they are supported in Rstudio and VSCode editors.
 
-Unfortunaly currently `[[wikilinking]]` and graphview aren't supported.
+To be able to use  linking with  the quatro files you need to check the toggle "detect all files extension" in `Files & Links` section in Obsidian.
 
 Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian: Edit txt files in Obsidian.md as if they were markdown](https://github.com/deathau/txt-as-md-obsidian).
 
 ### Plugins for better editing experience
 
-- Use  [obsidian-shellcomands](obsidian://show-plugin?id=obsidian-shellcommands) with `quarto render {{file_path:absolute}} --to pdf` to render the file inside obsidian
--  Use [HTML Reader](obsidian://show-plugin?id=obsidian-html-plugin) to render HTML output inside Obsidian, Obsidian natively supports pdfs
--  To be able to link the quatro files you need to check the toggle "detect all files extension" in Files & lInks section in Obsidian
+- Use  [obsidian-shellcomands](obsidian://show-plugin?id=obsidian-shellcommands) with `quarto render {{file_path:absolute}} --to pdf` to render the file inside Obsidian
+-  Use [HTML Reader](obsidian://show-plugin?id=obsidian-html-plugin) to render HTML output inside Obsidian, Obsidian natively supports pdfs.
+
 
 ### To-do
 
