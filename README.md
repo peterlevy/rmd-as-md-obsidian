@@ -6,6 +6,26 @@ QMD files contain a combination of markdown and executable code cell, and are fo
 
 To be able to use  linking with  the quatro files you need to check the toggle "detect all files extension" in `Files & Links` section in Obsidian.
 
+To hide additional files you might use this CSS chunk (save it as a file to your snippets folder and enable it in Obsidian in the Appeareance menu), you might add aditional filetypes.
+
+```css
+div[data-path$='.Rproj']{
+	display: none;
+}
+
+div[data-path$='.cls']{
+	display: none;
+}
+
+div[data-path$='.yml']{
+	display: none;
+}
+
+div[data-path$='.json']{
+	display: none;
+}
+```
+
 Plugin is a small tweak of a plugin made by deathau: [deathau/txt-as-md-obsidian: Edit txt files in Obsidian.md as if they were markdown](https://github.com/deathau/txt-as-md-obsidian).
 
 ### Plugins for better editing experience
