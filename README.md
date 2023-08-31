@@ -49,7 +49,7 @@ The required APIs were only added in Obsidian **0.10.12**, and as such, that is 
 
 ### From within Obsidian
 
-Plugin is accesible in the Obsidian n the community list. If you want to beta releases, you can use [the BRAT plugin](https://github.com/TfTHacker/obsidian42-brat).
+Plugin is accesible in the Obsidian n the community list. If you want to test beta releases, you can use [the BRAT plugin](https://github.com/TfTHacker/obsidian42-brat).
 
 ### From GitHub
 - Download the Latest Release from the Releases section of the GitHub Repository
