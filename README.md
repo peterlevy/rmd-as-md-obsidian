@@ -48,7 +48,8 @@ The required APIs were only added in Obsidian **0.10.12**, and as such, that is 
 ## Installation
 
 ### From within Obsidian
-Currently the plugin is not accesible in the Obsidian n the community list. Tho access and beta test it, you can use [the BRAT plugin](https://github.com/TfTHacker/obsidian42-brat).
+
+Plugin is accesible in the Obsidian n the community list. If you want to beta releases, you can use [the BRAT plugin](https://github.com/TfTHacker/obsidian42-brat).
 
 ### From GitHub
 - Download the Latest Release from the Releases section of the GitHub Repository
