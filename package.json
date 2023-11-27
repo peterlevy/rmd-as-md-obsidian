@@ -1,7 +1,7 @@
 {
-  "name": "qmd-as-md-obsidian",
+  "name": "rmd-as-md-obsidian",
   "version": "0.0.2",
-  "description": "Edit qmd files as if they were markdown",
+  "description": "Edit rmd files as if they were markdown",
   "main": "main.js",
   "scripts": {
     "install-deps": "npm install",
